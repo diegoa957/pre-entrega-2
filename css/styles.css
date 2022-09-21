@@ -1,0 +1,54 @@
+.main{
+    background: url(/recursos/fondo.jpg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.main h1{
+    color:#f46188;
+    font-size: 4rem;
+    font-weight: 700;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.main h2{
+    color:#f46188;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+footer{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans' ;
+}
+
+.btn2{
+    height: 45px;
+    width: 100px;
+    background: #FDE5E3;
+    margin-left: -10px;
+    border: 2px solid #FA8677;
+    font-weight: 600;
+}
+
+.suscrib input{
+    height: 45px;
+    width: 55%;
+    border: 2px solid #FA8677;
+    outline: none;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+footer p{
+    margin: 0;
+    font-size: 1.1rem;
+}
+
+.fab{
+    font-size: 2.5rem;
+    cursor: pointer;
+    padding-right: 5px;
+
+}
