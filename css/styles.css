@@ -75,3 +75,15 @@ footer p{
 -moz-box-shadow: 10px 12px 12px -3px rgba(0,0,0,0.75);
 transition: 0.5s;
 }
+
+.about-us{
+    background: url(/recursos/about-us.jpg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.nosotros{
+    color: black;
+    font-weight: bolder;
+}
