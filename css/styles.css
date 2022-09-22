@@ -1,5 +1,5 @@
 .main{
-    background: url(/recursos/fondo.jpg)no-repeat;
+    background: url(../recursos/fondo.jpg)no-repeat;
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -77,7 +77,7 @@ transition: 0.5s;
 }
 
 .about-us{
-    background: url(/recursos/about-us.jpg)no-repeat;
+    background: url(../recursos/about-us.jpg)no-repeat;
     background-size: cover;
     height: 100vh;
     width: 100%;
